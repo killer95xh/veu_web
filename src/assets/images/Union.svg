@@ -1,0 +1,18 @@
+<svg width="136" height="60" viewBox="0 0 136 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Union" filter="url(#filter0_d_201_5577)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 36L25.2941 43L30 36H115C118.314 36 121 33.3137 121 30V15C121 11.6863 118.314 9 115 9H17C13.6863 9 11 11.6863 11 15V30C11 33.3137 13.6863 36 17 36H20Z" fill="white"/>
+<path d="M25.2941 43L25.7091 43.279C25.6189 43.413 25.4695 43.4953 25.308 43.4998C25.1465 43.5043 24.9928 43.4305 24.8953 43.3016L25.2941 43ZM20 36V35.5C20.1567 35.5 20.3043 35.5734 20.3988 35.6984L20 36ZM30 36L29.5851 35.721C29.6779 35.5829 29.8335 35.5 30 35.5V36ZM24.8953 43.3016L19.6012 36.3016L20.3988 35.6984L25.6929 42.6984L24.8953 43.3016ZM30.4149 36.279L25.7091 43.279L24.8792 42.721L29.5851 35.721L30.4149 36.279ZM30 35.5H115V36.5H30V35.5ZM115 35.5C118.038 35.5 120.5 33.0376 120.5 30H121.5C121.5 33.5899 118.59 36.5 115 36.5V35.5ZM120.5 30V15H121.5V30H120.5ZM120.5 15C120.5 11.9624 118.038 9.5 115 9.5V8.5C118.59 8.5 121.5 11.4101 121.5 15H120.5ZM115 9.5H17V8.5H115V9.5ZM17 9.5C13.9624 9.5 11.5 11.9624 11.5 15H10.5C10.5 11.4101 13.4102 8.5 17 8.5V9.5ZM11.5 15V30H10.5V15H11.5ZM11.5 30C11.5 33.0376 13.9624 35.5 17 35.5V36.5C13.4101 36.5 10.5 33.5899 10.5 30H11.5ZM17 35.5H20V36.5H17V35.5Z" fill="#2F8CAE"/>
+</g>
+<defs>
+<filter id="filter0_d_201_5577" x="0.5" y="0.5" width="135" height="59" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="2" dy="4"/>
+<feGaussianBlur stdDeviation="6"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.16 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_201_5577"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_201_5577" result="shape"/>
+</filter>
+</defs>
+</svg>
